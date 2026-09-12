@@ -1,4 +1,4 @@
-# 🚚 Inventory Intelligence & Stockout Optimization System
+#  Inventory Intelligence & Stockout Optimization System
 
 An end-to-end data analytics project for a retail/e-commerce business that struggles with
 **stockouts, overstock, and unreliable suppliers**. It uses historical sales, inventory,
