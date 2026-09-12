@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (generated — regenerate via script; comment these out if you want to commit CSVs)
+data/*.csv
+
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
